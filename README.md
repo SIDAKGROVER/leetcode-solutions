@@ -5,11 +5,13 @@ Leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
@@ -28,4 +30,8 @@ Leetcode
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
