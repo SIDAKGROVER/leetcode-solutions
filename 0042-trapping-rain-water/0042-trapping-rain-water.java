@@ -1,10 +1,10 @@
 class Solution {
     public int trap(int[] arr) {
         int n=arr.length;
-        int l=0,r=n-1;
+        int l=0;
+        int r=n-1;
         int lmax=0,rmax=0;
         int total=0;
-
         while(l<=r){
             if(arr[l]<=arr[r]){
                 if(lmax>arr[l]){
@@ -14,7 +14,7 @@ class Solution {
                     lmax=arr[l];
                 }
                 l++;
-            } 
+            }
             else{
                 if(rmax>arr[r]){
                     total+=rmax-arr[r];
@@ -24,9 +24,7 @@ class Solution {
                 }
                 r--;
             }
-        }  
-
+        }
         return total;
-
     }
 }
