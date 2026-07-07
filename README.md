@@ -7,6 +7,7 @@ Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -44,4 +45,8 @@ Leetcode
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
