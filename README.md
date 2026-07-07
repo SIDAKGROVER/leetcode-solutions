@@ -8,6 +8,7 @@ Leetcode
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -16,6 +17,7 @@ Leetcode
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
