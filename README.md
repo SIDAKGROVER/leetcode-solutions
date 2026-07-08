@@ -5,6 +5,7 @@ Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
@@ -49,4 +50,8 @@ Leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
