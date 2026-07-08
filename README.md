@@ -8,6 +8,7 @@ Leetcode
 | [0001-two-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -37,6 +39,7 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
