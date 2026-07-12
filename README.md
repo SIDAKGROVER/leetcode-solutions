@@ -7,6 +7,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@ Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
