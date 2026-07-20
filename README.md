@@ -21,6 +21,7 @@ Leetcode
 | [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ Leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -90,6 +92,7 @@ Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -103,6 +106,7 @@ Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
