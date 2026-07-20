@@ -8,6 +8,7 @@ Leetcode
 | [0001-two-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -36,6 +37,7 @@ Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -62,6 +64,7 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
