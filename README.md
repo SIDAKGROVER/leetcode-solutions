@@ -11,6 +11,7 @@ Leetcode
 | [0015-3sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -136,6 +137,7 @@ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
