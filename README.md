@@ -29,6 +29,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -141,6 +142,7 @@ Leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
