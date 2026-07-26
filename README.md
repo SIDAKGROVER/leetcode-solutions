@@ -36,6 +36,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -109,6 +110,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
@@ -137,6 +139,7 @@ Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
