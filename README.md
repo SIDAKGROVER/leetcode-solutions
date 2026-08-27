@@ -32,6 +32,7 @@ Leetcode
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ Leetcode
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -177,6 +179,7 @@ Leetcode
 | [0076-minimum-window-substring](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
