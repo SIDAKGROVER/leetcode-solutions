@@ -74,6 +74,7 @@ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -168,6 +169,7 @@ Leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
@@ -315,4 +317,12 @@ Leetcode
 | [0101-symmetric-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
