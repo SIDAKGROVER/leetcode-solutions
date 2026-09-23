@@ -186,6 +186,7 @@ Leetcode
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0796-rotate-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -306,6 +307,7 @@ Leetcode
 | [0101-symmetric-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -320,12 +322,14 @@ Leetcode
 | [0101-symmetric-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Backtracking
 |  |
