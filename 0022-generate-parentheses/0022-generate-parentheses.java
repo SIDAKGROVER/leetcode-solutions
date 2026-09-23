@@ -1,20 +1,18 @@
 class Solution {
-
-    public void func(int n,int open,int close,String s,List<String>ans){
+    public void func(int open,int close,int n,List<String>ans,String curr){
         if(close>open || open>n){
             return;
         }
-        if(open==close && open==n){
-            ans.add(s);
+        if(close==open && open==n){
+            ans.add(curr);
             return;
         }
-        func(n,open+1,close,s+"(",ans);
-        func(n,open,close+1,s+")",ans);
+        func(open+1,close,n,ans,curr+"(");
+        func(open,close+1,n,ans,curr+")");
     }
     public List<String> generateParenthesis(int n) {
         List<String>ans=new ArrayList<>();
-        func(n,0,0,"",ans);
+        func(0,0,n,ans,"");
         return ans;
-
     }
 }
