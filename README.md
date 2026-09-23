@@ -131,6 +131,7 @@ Leetcode
 | [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Leetcode
 | [0206-reverse-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
