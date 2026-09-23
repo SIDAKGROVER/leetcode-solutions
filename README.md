@@ -127,6 +127,7 @@ Leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -136,6 +137,7 @@ Leetcode
 | [0090-subsets-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +273,7 @@ Leetcode
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
