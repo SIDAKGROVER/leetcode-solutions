@@ -126,6 +126,7 @@ Leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -272,6 +273,7 @@ Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
