@@ -86,6 +86,7 @@ Leetcode
 | [0055-jump-game](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
@@ -183,6 +184,7 @@ Leetcode
 | [0022-generate-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -343,6 +345,7 @@ Leetcode
 | [0040-combination-sum-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
