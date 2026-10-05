@@ -84,6 +84,7 @@ Leetcode
 | [0045-jump-game-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -129,6 +130,7 @@ Leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -357,5 +359,6 @@ Leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
