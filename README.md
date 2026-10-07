@@ -44,6 +44,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@ Leetcode
 | [0152-maximum-product-subarray](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -227,6 +229,7 @@ Leetcode
 | [0162-find-peak-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -367,4 +370,8 @@ Leetcode
 | ------- |
 | [0070-climbing-stairs](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
