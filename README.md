@@ -57,6 +57,7 @@ Leetcode
 | [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -98,6 +99,7 @@ Leetcode
 | [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1043-partition-array-for-maximum-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Stack
 |  |
