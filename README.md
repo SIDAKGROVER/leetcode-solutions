@@ -78,6 +78,7 @@ Leetcode
 | [0189-rotate-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -98,6 +99,7 @@ Leetcode
 | [0198-house-robber](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -206,6 +208,7 @@ Leetcode
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
