@@ -59,6 +59,7 @@ Leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -81,6 +82,7 @@ Leetcode
 | [0392-is-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ Leetcode
 | [0509-fibonacci-number](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Stack
 |  |
@@ -129,6 +132,7 @@ Leetcode
 | [0451-sort-characters-by-frequency](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -183,6 +187,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -214,6 +219,7 @@ Leetcode
 | [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0796-rotate-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
