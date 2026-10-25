@@ -63,6 +63,7 @@ Leetcode
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -157,6 +158,7 @@ Leetcode
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -390,4 +392,16 @@ Leetcode
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
