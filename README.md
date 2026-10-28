@@ -27,6 +27,7 @@ Leetcode
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,12 +116,14 @@ Leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sorting
 |  |
 | ------- |
@@ -414,4 +417,8 @@ Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
