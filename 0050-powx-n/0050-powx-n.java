@@ -1,21 +1,15 @@
 class Solution {
-    public double func(double x,Long N){
-        if(N==0)return 1;
-
-        double half=func(x,N/2);
-
-        if(N%2==0){
-            return half*half;
-        }
-        else{
-            return x*half*half;
-        }
-    }
     public double myPow(double x, int n) {
         long N=n;
-       if(N<0){
-        return 1/func(x,-N);
-       }
-       return func(x,N);
+        if(N<0){
+             return 1/func(x,N);
+        }
+        return func(x,N);
+    }
+    public double func(double x,Long N){
+        if(N==0)return 1;
+        double half=func(x,N/2);
+        if(N%2==0)return half*half;
+        return half*half*x;
     }
 }
