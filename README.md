@@ -40,6 +40,7 @@ Leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -127,6 +128,7 @@ Leetcode
 | [0056-merge-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -180,6 +182,7 @@ Leetcode
 | [0169-majority-element](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0242-valid-anagram) |
