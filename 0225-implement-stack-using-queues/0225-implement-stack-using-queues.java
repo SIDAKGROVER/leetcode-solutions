@@ -13,21 +13,20 @@ class MyStack {
     }
     
     public int pop() {
-        if(empty())return -1;
-        int val=q.poll();
-        return val;
+        if(q.isEmpty())return -1;
+        else{
+            return q.poll();
+        }
     }
     
     public int top() {
-        if(empty())return -1;
+        if(q.isEmpty())return -1;
+        else
         return q.peek();
     }
     
     public boolean empty() {
-        if(q.size()<1)return true;
-        else{
-            return false;
-        }
+        return q.isEmpty();
     }
 }
 
