@@ -47,6 +47,7 @@ Leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -263,6 +264,7 @@ Leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -423,4 +425,8 @@ Leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
