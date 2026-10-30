@@ -56,6 +56,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -120,12 +121,14 @@ Leetcode
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
