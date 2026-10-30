@@ -124,6 +124,7 @@ Leetcode
 | [0234-palindrome-linked-list](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Leetcode
 | [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0796-rotate-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1903-largest-odd-number-in-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
