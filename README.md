@@ -242,6 +242,7 @@ Leetcode
 | [0392-is-subsequence](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0606-construct-string-from-binary-tree](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0796-rotate-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -314,6 +315,7 @@ Leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -364,6 +366,7 @@ Leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0459-repeated-substring-pattern](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -460,4 +463,5 @@ Leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
