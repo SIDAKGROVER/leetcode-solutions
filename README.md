@@ -69,6 +69,7 @@ Leetcode
 | [1043-partition-array-for-maximum-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -271,6 +272,7 @@ Leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Leetcode
 | [0930-binary-subarrays-with-sum](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SIDAKGROVER/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
